@@ -1,8 +1,8 @@
 1.A) En el código Python sinhilos.py el tiempo de ejecución es de 5 segundos, con variaciones de 5,1 segundos.
 
 Sinhilos.py
-5.16918 segundos;
-5.16918 segundos;
+5.16918 segundos
+5.16918 segundos
 
 Mientras qué el código conhilos.py tarda un total de 4 segundos sin variaciones.
 
