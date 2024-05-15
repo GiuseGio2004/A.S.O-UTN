@@ -22,15 +22,19 @@ Suma_resta.py con las lineas comentadas
 PS C:\Users\Alexandre> pythonu "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 0
 Tomó 0.01187 segundos
+
 PS C:\Users\Alexandre> pythonu "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 0 
 Tomό 0.01121 segundos
+
 PS C:\Users\Alexandre> pythonu "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 0
 Tomó 0.01193 segundos
+
 PS C:\Users\Alexandre> pythonu "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 0 
 Tomό 0.01119 segundos
+
 PS C:\Users\Alexandre> pythonu "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 0
 Tomó 0.01148 segundos
@@ -40,15 +44,19 @@ Suma_resta.py con las lineas descomentadas
 PS C:\Users\Alexandre> python -u "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico N°3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: -214435
 Tomó 2.92260 segundos
+
 PS C:\Users\Alexandre> python -u "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico N°3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: -142470
 Tomó 2.90400 segundos
+
 PS C:\Users\Alexandre> python -u "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: -489890
 Tomó 2.93979 segundos
+
 PS C:\Users\Alexandre> python -u "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: -489700
 Tomó 3.26341 segundos
+
 PS C:\Users\Alexandre> python -u "c:\Users\Alexandre\OneDrive\Visual Code Programs\Archivos C\Trabajo Practico Nº3 de Arquitecuta\Punto 1\suma_resta.py"
 El valor final es: 98465
 Tomó 2.94612 segundos
